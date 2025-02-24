@@ -61,12 +61,4 @@ Here's a list of movies tailored to your interests:
 1. **Code**: Python scripts implementing the recommendation system.
 2. **README.md**: This file, providing setup and usage instructions.
 3. **Demo Video**: A short screen recording demonstrating functionality linked [here](www.youtube.com).
-4. **Salary Expectation**: 3000 - 5000 per month.
-
-
-
-<!-- #endregion -->
-
-```python
-
-```
+4. **Salary Expectation**: 2000 - 4000 per month.
